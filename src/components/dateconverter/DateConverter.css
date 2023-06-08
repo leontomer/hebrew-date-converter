@@ -1,0 +1,15 @@
+.container{
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.body{
+    margin-top: 3%;
+}
+
+.convertElementsMargin {
+    margin-top: 2%;
+}
